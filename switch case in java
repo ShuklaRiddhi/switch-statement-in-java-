@@ -1,0 +1,31 @@
+switch case in java 
+solution-
+public class main {
+public static void main(string[] args) {
+scanner in = new scanner(system.in);
+string fruit = in.next();
+switch (fruits) {
+case "mango":
+system.out.println("king of fruits");
+break;
+case "apple":
+system.out.println("a sweet red fruit");
+break;
+case "orange":
+system.out.println("round fruit");
+break;
+case "grapes":
+system.out.println("smaller fruit"):
+break;
+default:
+system.out.println("please enter a vlaid fruit");
+}
+}
+
+
+
+
+
+
+
+
